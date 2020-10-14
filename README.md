@@ -13,3 +13,5 @@ So we removed columns that were redundand and labels,created dummy variables for
 After the dimensions had been reduced, the machine learning algorithm could be put into effect. The primary goal of this project was to classify the different cryptocurrencies.
 
 Then Plotting the inertia against the numnber of clusters (K) revealed the "elbow" on the Elbow Curve to be at four clusters. 
+
+Please see those figures and plots in ./images folder.
